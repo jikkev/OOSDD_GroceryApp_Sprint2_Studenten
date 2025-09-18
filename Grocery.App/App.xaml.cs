@@ -5,7 +5,7 @@ namespace Grocery.App
 {
     public partial class App : Application
     {
-        public App(/*LoginViewModel viewModel*/)
+        public App(LoginViewModel viewModel)
         {
             InitializeComponent();
 
